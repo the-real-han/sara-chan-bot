@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/sara-chan-bot/static/css/main.259529fd.css",
+    "main.js": "/sara-chan-bot/static/js/main.d16f44c8.js",
+    "static/js/679.6df8a0b0.chunk.js": "/sara-chan-bot/static/js/679.6df8a0b0.chunk.js",
+    "static/js/787.d3428903.chunk.js": "/sara-chan-bot/static/js/787.d3428903.chunk.js",
+    "index.html": "/sara-chan-bot/index.html",
+    "main.259529fd.css.map": "/sara-chan-bot/static/css/main.259529fd.css.map",
+    "main.d16f44c8.js.map": "/sara-chan-bot/static/js/main.d16f44c8.js.map",
+    "679.6df8a0b0.chunk.js.map": "/sara-chan-bot/static/js/679.6df8a0b0.chunk.js.map",
+    "787.d3428903.chunk.js.map": "/sara-chan-bot/static/js/787.d3428903.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.259529fd.css",
+    "static/js/main.d16f44c8.js"
+  ]
+}
